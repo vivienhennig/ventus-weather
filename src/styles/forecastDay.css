@@ -1,0 +1,42 @@
+.forecast-day-wrapper {
+    justify-self: center;
+    color: var(--ivory);
+}
+
+.weekday {
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.date {
+    margin: 5px 0 20px 0;
+    color: var(--charcoal);
+    font-size: 14px;
+    font-weight: 200;
+}
+
+.value {
+    font-size: 18px;
+}
+
+.temperature::before {
+    content: url(/src/images/icons/thermometer.svg);
+    margin-right: 10px;
+}
+
+.sunrise::before {
+    content: url(/src/images/icons/sunrise.svg);
+    margin-right: 10px;
+}
+
+.sunset::before {
+    content: url(/src/images/icons/sunset.svg);
+    margin-right: 10px;
+}
+
+@media screen and (max-width: 768px) {
+    .forecast-day-wrapper {
+        justify-self: stretch;
+        margin-bottom: 100px;
+    }
+}
