@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/ventus-weather/static/css/main.294186eb.chunk.css",
+    "main.js": "/ventus-weather/static/js/main.fdadd2ff.chunk.js",
+    "main.js.map": "/ventus-weather/static/js/main.fdadd2ff.chunk.js.map",
+    "runtime-main.js": "/ventus-weather/static/js/runtime-main.d0a501d0.js",
+    "runtime-main.js.map": "/ventus-weather/static/js/runtime-main.d0a501d0.js.map",
+    "static/js/2.153a99f8.chunk.js": "/ventus-weather/static/js/2.153a99f8.chunk.js",
+    "static/js/2.153a99f8.chunk.js.map": "/ventus-weather/static/js/2.153a99f8.chunk.js.map",
+    "index.html": "/ventus-weather/index.html",
+    "static/css/main.294186eb.chunk.css.map": "/ventus-weather/static/css/main.294186eb.chunk.css.map",
+    "static/js/2.153a99f8.chunk.js.LICENSE.txt": "/ventus-weather/static/js/2.153a99f8.chunk.js.LICENSE.txt",
+    "static/media/cloud.c9c98672.png": "/ventus-weather/static/media/cloud.c9c98672.png",
+    "static/media/today.css": "/ventus-weather/static/media/wind.70597e7d.svg",
+    "static/media/rain.6c234ab9.gif": "/ventus-weather/static/media/rain.6c234ab9.gif",
+    "static/media/snow.58da4989.gif": "/ventus-weather/static/media/snow.58da4989.gif",
+    "static/media/sun.2f212242.png": "/ventus-weather/static/media/sun.2f212242.png",
+    "static/media/forecastDay.css": "/ventus-weather/static/media/thermometer.32530fa4.svg",
+    "static/media/thunder.1fbd5af5.gif": "/ventus-weather/static/media/thunder.1fbd5af5.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d0a501d0.js",
+    "static/js/2.153a99f8.chunk.js",
+    "static/css/main.294186eb.chunk.css",
+    "static/js/main.fdadd2ff.chunk.js"
+  ]
+}
